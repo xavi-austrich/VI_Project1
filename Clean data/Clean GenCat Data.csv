@@ -1,4 +1,4 @@
-,idincident,data_incendi,idprovincia,idmunicipio,municipi,provincia,latitud,longitud,comarca
+,numeroparte,data,idprovincia,codi_municipi,municipi,provincia,latitud,longitud,comarca
 0,1,2011-01-11,43,129,Riudoms,Tarragona,41.13772817,1.050837547,Baix Camp
 1,2,2011-01-13,43,48,Corbera d'Ebre,Tarragona,41.07773728,0.478135014,Terra Alta
 2,3,2011-01-14,17,54,Colera,Girona,42.40401886,3.15047099,Alt Empordà
