@@ -1,4 +1,5 @@
 dades/*
+!dades/Catalonia.geojson
 venv/*
 *.zip
 __pycache__/*
